@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring_Security_JWT_Oauth2_OIDC.iml" filepath="$PROJECT_DIR$/Spring_Security_JWT_Oauth2_OIDC.iml" />
+    </modules>
+  </component>
+</project>
